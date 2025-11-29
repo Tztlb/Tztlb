@@ -7,28 +7,16 @@
 
 ## 🚀 Tech Stack & Tools
 
-### 🧑‍💻 Languages
+### Tools, Languages, Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="50"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
   <img src="https://skillicons.dev/icons?i=html" width="50"/>
   <img src="https://skillicons.dev/icons?i=css" width="50"/>
   <img src="https://skillicons.dev/icons?i=sql" width="50"/>
-</p>
-
----
-
-### ⚙️ Frameworks & Libraries
-<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" width="50"/>
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50"/>
@@ -51,8 +39,6 @@
 ## 📫 Contact
 - **LinkedIn:**  
   👉 [Tannaz Talebian](https://www.linkedin.com/in/tannaz-talebian-86a515389/)
-
-- **Email:** your-email@example.com  
 
 ---
 
