@@ -8,28 +8,28 @@
 ## 🚀 Tech Stack & Tools
 
 ### Tools, Languages, Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <img src="https://skillicons.dev/icons?i=langchain" width="50"/>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/model-sim.html)
+[![Verilog](https://img.shields.io/badge/Verilog-ED1C24?logo=verizon&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 
 ---
 
 ## 🤖 AI & Other Skills
-- AI Agents  
-- LangChain / LLMs  
+- AI Agents   
 - Telegram Bots (telebot)  
 - Simulations & Modeling  
 - Debugging & System Design  
