@@ -19,6 +19,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
+[![TeleBot](https://img.shields.io/badge/TeleBot-26A5E4?logo=telegram&logoColor=white)](https://github.com/eternnoir/pyTelegramBotAPI)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -29,7 +30,6 @@
 
 ## 🤖 AI & Other Skills
 - AI Agents   
-- Telegram Bots (telebot)  
 - Simulations & Modeling  
 - Debugging & System Design  
 
