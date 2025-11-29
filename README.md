@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
   <img src="https://skillicons.dev/icons?i=html" width="50"/>
   <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=sql" width="50"/>
+  <img src="https://skillicons.dev/icons?i=smyql" width="50"/>
   <img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
   <img src="https://skillicons.dev/icons?i=flask" width="50"/>
