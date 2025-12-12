@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
 ### Tools, Languages, Frameworks & Libraries
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
