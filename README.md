@@ -24,10 +24,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/model-sim.html)
-[![Verilog](https://img.shields.io/badge/Verilog-ED1C24?logo=verizon&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
-
----
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ## 🤖 AI & Other Skills
 - AI Agents   
