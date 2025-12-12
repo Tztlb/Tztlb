@@ -28,7 +28,7 @@
 
 ## 🤖 AI & Other Skills
 - AI Agents   
-- Agent-based Modelling  
+- Agent-based Modeling  
 - Debugging & System Design  
 
 ---
