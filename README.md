@@ -37,8 +37,4 @@
 - **LinkedIn:**  
   👉 [Tannaz Talebian](https://www.linkedin.com/in/tannaz-talebian-86a515389/)
 
----
 
-<p align="center">
-  ⭐ If you like my work, feel free to leave a star!
-</p>
